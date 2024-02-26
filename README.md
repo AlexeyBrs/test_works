@@ -3,4 +3,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Прогноз рисков беременных](https://github.com/AlexeyBrs/masterskaya/blob/main/marketplace) | Подготовка данных для создания прогностической модели рисков беременных  | *pandas* *numpy* *datetime* *matplotlib* *sklearn* *catboost* |
+| [Прогноз рисков беременных](https://github.com/AlexeyBrs/test_works/blob/main/pregn_risk/pregn_riskF.ipynb) | Подготовка данных для создания прогностической модели рисков беременных  | *pandas*  |
